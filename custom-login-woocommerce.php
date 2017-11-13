@@ -1,11 +1,11 @@
 <?php
 
 /*
-Plugin Name: dotunj-customlogin-woocommmerce
+Plugin Name: Customlogin-woocommmerce
 Plugin URI: https://www.wayamkerlearning.com 
-Description: Endpoints for Woocommerce API.
+Description: Custom Endpoints for Woocommerce API.
 Version: 1.0
-Author: Edited by Dotunj
+Author: WayMaker Learning
 Author URI: https://www.wayamkerlearning.com 
 */
 
